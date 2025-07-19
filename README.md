@@ -1,4 +1,4 @@
-# Magic-of-Underscore-in-Python
+# Magic of Underscore in Python
 Exploring the usage of underscore in Python
 
 1. Use In Interpreter
